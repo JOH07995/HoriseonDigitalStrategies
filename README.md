@@ -12,7 +12,7 @@ Key considerations in this refactoring effort are:
 
 
 ## Notable changes made to Code Base
-
+```
 Updated readability of code and spacing | Comments added for reference
 
 Changed <div> to <nav> to better differentiate the Navigation section
@@ -31,7 +31,7 @@ Added aria-label attribute as recommended by MDN for accesibility to Hero Class 
 Updated <div> to <footer> for footer class
 
 Updated Copyright year to 2020
-
+```
 
 
 ## Resources Referenced

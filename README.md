@@ -16,7 +16,7 @@ Key considerations in this refactoring effort are:
 Updated readability of code and spacing | Comments added for reference
 
 Changed <div> to <nav> to better differentiate the Navigation section
-Added (currently) empty link to stylzed Horiseon header for navigation purposes
+Added  hyperlink to stylzed Horiseon header for navigation to the live page [https://joh07995.github.io/HoriseonDigitalStrategies/]
 
 Changed <div> to <aside> for "benefits" class
 
